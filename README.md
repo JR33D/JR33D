@@ -9,6 +9,7 @@ I'm a passionate software engineer focused on building scalable, maintainable, a
 ---
 
 ### Featured Projects
+- [**Jotty MCP Server**](https://github.com/JR33D/jotty-mcp-server) - An MCP server for AI agents to interact with [Jotty](https://github.com/fccview/jotty) Checklist and Notes application.
 - [**Secret Santa**](https://github.com/JR33D/secret-santa) - Next.js and React website to help manage secret Santa/white elephant events.
 - [**Fundrocal**](https://github.com/JR33D/fundrocal) - Static simple website to track and share Fundraising events for FRC FMA district.
 - 👨‍💻 Explore all my projects [Here on Github](https://github.com/JR33D?tab=repositories)
